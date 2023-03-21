@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution items", "solution items", "{690AA7A7-44D4-4CAA-88CF-45B2935F632E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1A23AE96-AC4A-4F65-843D-63F9FD574C6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F36743CA-226C-4995-AC75-4A1E1E9167AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cike.DrawGraph", "src\Cike.DrawGraph\Cike.DrawGraph.csproj", "{EE864E9A-7F77-4DE6-BBC3-6F45188F210C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE864E9A-7F77-4DE6-BBC3-6F45188F210C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE864E9A-7F77-4DE6-BBC3-6F45188F210C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE864E9A-7F77-4DE6-BBC3-6F45188F210C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE864E9A-7F77-4DE6-BBC3-6F45188F210C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE864E9A-7F77-4DE6-BBC3-6F45188F210C} = {1A23AE96-AC4A-4F65-843D-63F9FD574C6B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F140701E-3C17-4BC0-A575-2D41A5C931E4}
+	EndGlobalSection
+EndGlobal
